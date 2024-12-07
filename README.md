@@ -1,7 +1,7 @@
 # Azure
 This repo contains Azure Cloud related stuff.
 
-## Packer
+## rhel8-golden-image
 This folder contains manifests how to create `RHEL 8` golden image for Azure Cloud.
 
 ```bash
